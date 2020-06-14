@@ -31,7 +31,7 @@ __Notes:__
 
 This file was received from another computer and may have been blocked to protect the computer.
 
-Run the cmd command line and go to the root of where the executable file VSCode_Portable_1.35.1.paf.exe is located
+Run the cmd command line and go to the root of where the executable file VSCodePortable_1.35.1.paf.exe is located
 
 CMD (Command Windows)
 
