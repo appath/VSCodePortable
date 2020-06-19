@@ -1,6 +1,7 @@
 {
 	"git.ignoreMissingGitWarning": true,
 	"update.channel": "none",
+	"update.mode": "none",
 	"editor.fontSize": 11,
 	"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
 	"editor.fontLigatures": true,
