@@ -29,7 +29,22 @@ __System requirements__
 
 __Notes:__
 
-This file was received from another computer and may have been blocked to protect the computer.
+__Disable GPU rendering in codedisable GPU rendering in VSCode__
+
+Open the Command Palette ```(Ctrl+Shift+P)```.
+
+Run ```Configure Runtime Arguments``` command.
+
+This command will open a ```argv.json``` file to configure runtime arguments.
+
+__"disable-hardware-acceleration":__ true.
+
+Restart VSCodePortable.
+
+__Note:__ Do not use this setting unless you are seeing issues!
+
+
+__This file was received from another computer and may have been blocked to protect the computer.__
 
 Run the cmd command line and go to the root of where the executable file VSCodePortable_1.35.1.paf.exe is located
 
