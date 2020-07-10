@@ -1,4 +1,8 @@
 
+#Changes VSCode Portable 1.47.0 [12:52 10-07-2020]
+  + https://code.visualstudio.com/updates/v1_47
+
 #Changes VSCode Portable 1.46.1 [16:42 01-07-2020]
+  + https://code.visualstudio.com/updates/v1_46
   + Added package to portable, Git version 2.27.0.windows.1. Installed PATH to Git.
   + For convenience, a folder is created .gitclone. Her way Documents\.gitclone\*
