@@ -1,12 +1,8 @@
 {
-	// Is git enabled (true, false)
-	//"git.enabled": true,
-	// Path to the git executable.
-	//"git.path": "C:\\PortableGit\\cmd\\git.exe",
 	"git.ignoreMissingGitWarning": true,
 	"update.channel": "none",
 	"update.mode": "none",
-	"editor.fontSize": 11,
+	"editor.fontSize": 12,
 	"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
 	"editor.fontLigatures": true,
 
@@ -28,5 +24,7 @@
 	"debug.console.fontSize": 12,
 	"terminal.integrated.fontSize": 12,
 	"window.zoomLevel": 0,
-	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+	"extensions.ignoreRecommendations": true,
+	"editor.wordWrap": "on"
 }
