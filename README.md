@@ -13,7 +13,6 @@ Writing style makes reading easy and convenient. You can make your editor better
 __You can download the latest Portable version__
 
 [![Release](https://img.shields.io/github/v/release/appath/VSCodePortable?label=Stable&style=flat-square)](https://github.com/appath/VSCodePortable/releases)
-[![Insiders](https://img.shields.io/github/v/tag/appath/VSCodePortable?color=inactive&label=Insiders&style=flat-square)](https://github.com/appath/VSCodePortable/releases)
 
 [Version 1.47](https://code.visualstudio.com/updates/v1_47) is now available! Read about the new features and fixes from June.
 
