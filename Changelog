@@ -1,4 +1,9 @@
 
+#Changes VSCode Portable 1.47.2 [11:34 19-07-2020]
+  + https://code.visualstudio.com/updates/v1_47
+  + Update 1.47.2: The update addresses these issues.
+    https://github.com/microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22June+2020+Recovery+2%22+is%3Aclosed
+
 #Changes VSCode Portable 1.47.0 [12:52 10-07-2020]
   + https://code.visualstudio.com/updates/v1_47
 
