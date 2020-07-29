@@ -21,8 +21,8 @@ The rest of the downloads are available in the [release-section](https://github.
 __System requirements__
 
  - [PortableApps.com](https://portableapps.com/download) Platform
- - Microsoft __Windows 8, 8.1, 10 (32-64bit)__
- - Supported __Windows__ operating systems that have been tested: __8, 8.1, 10 (32-64bit)__
+ - Microsoft __Windows 8, 8.1, 10 (64bit)__
+ - Supported __Windows__ operating systems that have been tested: __8, 8.1, 10 (64bit)__
  
 <p align="center"><img src="https://github.com/appath/VSCodePortable/blob/master/%23/github_vscode.png"></p>
 
