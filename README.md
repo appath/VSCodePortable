@@ -1,5 +1,5 @@
 
-__Visual Studio Code__ is an easy but powerful source editor __32-64bit__ portable.
+__Visual Studio Code__ is an easy but powerful source editor __64bit__ portable.
 
 ```Portable not officially approved ...```
 
