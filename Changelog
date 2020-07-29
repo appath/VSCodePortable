@@ -1,4 +1,13 @@
 
+#Changes VSCode Portable 1.47.3 [14:08 29-07-2020]
+  - Packaging is in the past. I decided to remove it and install it over the network. Removed architecture x86
+  - It was also decided to remove the package Git. 
+    Variable PATH did not touch, you can specify the correct path to the package Git
+    File to edit VSCodePortable\App\AppInfo\Launcher\VSCodePortable.ini
+  + https://code.visualstudio.com/updates/v1_47
+  + Update 1.47.3: The update addresses these issues.
+    https://github.com/microsoft/vscode/issues?q=is%3Aissue+milestone%3A%22June+2020+Recovery+3%22+is%3Aclosed
+
 #Changes VSCode Portable 1.47.2 [11:34 19-07-2020]
   + https://code.visualstudio.com/updates/v1_47
   + Update 1.47.2: The update addresses these issues.
