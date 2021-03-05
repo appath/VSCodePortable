@@ -20,7 +20,7 @@ The rest of the downloads are available in the [release-section](https://github.
 
 __System requirements__
 
- - [PortableApps.com](https://portableapps.com/download) Platform
+ - [PortableApps.com](https://portableapps.com) Platform
  - Microsoft __Windows 8, 8.1, 10 (64bit)__
  - Supported __Windows__ operating systems that have been tested: __8, 8.1, 10 (64bit)__
  
