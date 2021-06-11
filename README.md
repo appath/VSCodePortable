@@ -14,7 +14,7 @@ __You can download the latest Portable version__
 
 [![Release](https://img.shields.io/github/v/release/appath/VSCodePortable?label=Stable&style=flat-square)](https://github.com/appath/VSCodePortable/releases)
 
-[Version 1.56](https://code.visualstudio.com/updates/v1_56) is now available! Read about the new features and fixes from April 2021.
+[Version 1.57](https://code.visualstudio.com/updates/v1_57) is now available! Read about the new features and fixes from May 2021.
 
 The rest of the downloads are available in the [release-section](https://github.com/appath/VSCodePortable/releases).
 
